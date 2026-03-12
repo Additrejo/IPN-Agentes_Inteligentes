@@ -312,7 +312,7 @@ def main():
     print("ANALIZADOR DE SENTIMIENTOS")
     print("="*50)
     
-    ruta_base = r"C:\Users\addi_\OneDrive\Documentos\IPN\9no Semestre\Agentes inteligentes expertos\1er. Bloque\Analizador de sentimientos\IPN-Agentes_Inteligentes\Analizador de sentimientos"
+    ruta_base = r"C:\Users\addi_\OneDrive\Documentos\IPN\9no Semestre\Agentes inteligentes expertos\1er. Bloque\Analizador de sentimientos\IPN-Agentes_Inteligentes\"
     
     analizador = AnalizadorSentimientos(ruta_base)
     analizador.ejecutar()
