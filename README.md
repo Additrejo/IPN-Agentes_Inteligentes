@@ -32,7 +32,8 @@ pip install pandas openpyxl
 ---
  
 # Sistema de Análisis de Sentimientos Basado en Léxico
-![alt text](portada.jpg)
+<img width="1217" height="683" alt="image" src="https://github.com/user-attachments/assets/8824ed64-d530-4d20-ac94-df196d5c7d57" />
+
 
 ##  Descripción
 
