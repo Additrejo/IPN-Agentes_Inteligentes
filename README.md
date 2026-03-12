@@ -6,9 +6,6 @@ Programas de la materia Agentes Inteligentes Expertos.
 Programas realizados para la matería de Agente intelgentes expertos.
 
 ---
-
-## Índice
-
 # Índice
 
 
@@ -31,9 +28,18 @@ pip install pandas openpyxl
 
 ---
 ## Contenido
- 
-## [Prácticas de laboratorio - Procesamiento de imagenes]()  
 
+analizador_sentimientos/
+│
+├── datos/
+│   ├── palabras_positivas.txt
+│   ├── palabras_negativas.txt
+│   └── comentarios.xlsx
+│
+└── analizador.py
+ 
+## [Analizador de sentimientos]()  
+![alt text](image.png)
 
 ---
 
